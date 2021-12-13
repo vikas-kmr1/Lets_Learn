@@ -1,6 +1,6 @@
 # Lets_Learn
 
-
+An app for kindergarden students
 
 ![5](https://user-images.githubusercontent.com/73611313/133928141-d9a0ead1-a2e4-4cd3-a2c7-e3662f5e471c.PNG)
 ![4](https://user-images.githubusercontent.com/73611313/133928144-247d943b-3024-4d39-a0fd-94d863334531.PNG)
